@@ -1,0 +1,31 @@
+DotNet5Files/Program.cs
+DotNet6Files/Program.cs
+DotNet6Files/Startup.cs
+StudentAssets.zip
+StudentAssets/.DS_Store
+StudentAssets/Reactivities.postman_collection.json
+StudentAssets/Images/.DS_Store
+StudentAssets/Images/logo.png
+StudentAssets/Images/placeholder.png
+StudentAssets/Images/Thumbs.db
+StudentAssets/Images/user.png
+StudentAssets/Images/categoryImages/culture.jpg
+StudentAssets/Images/categoryImages/drinks.jpg
+StudentAssets/Images/categoryImages/film.jpg
+StudentAssets/Images/categoryImages/food.jpg
+StudentAssets/Images/categoryImages/music.jpg
+StudentAssets/Images/categoryImages/travel.jpg
+StudentAssets/section 18 challenge/Instructions.pdf
+StudentAssets/section 18 challenge/Solution.pdf
+StudentAssets/section 21 challenge/Instructions.pdf
+StudentAssets/section 21 challenge/Solution.pdf
+StudentAssets/snippets/.DS_Store
+StudentAssets/snippets/ActivityDetailsSnippets.txt
+StudentAssets/snippets/ActivityListItemPlaceholder.txt
+StudentAssets/snippets/ErrorSnippets.txt
+StudentAssets/snippets/Heroku connection string.txt
+StudentAssets/snippets/Home page styles.txt
+StudentAssets/snippets/SeedData with attendees.txt
+StudentAssets/snippets/SeedData.txt
+StudentAssets/snippets/utcDates.txt
+Reactivities/API/appsettings.json
